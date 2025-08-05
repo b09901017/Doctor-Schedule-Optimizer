@@ -92,12 +92,12 @@ pip install pandas ortools holidays openpyxl
 開啟終端機 (Terminal) 或命令提示字元 (Command Prompt)，移動到專案所在的資料夾，然後執行：
 
 ```bash
-python scheduler_v2.7.py
+python scheduler_solver-v2.py
 ```
 
 ### 4. 查看結果
 
-程式執行完畢後，您會在同一個資料夾下找到一份名為 `schedule_result_v2.7_YYYY-MM.xlsx` 的 Excel 檔案，裡面就是為您量身打造的最佳班表！
+程式執行完畢後，您會在同一個資料夾下找到一份名為 `schedule_result_YYYY-MM.xlsx` 的 Excel 檔案，裡面就是為您量身打造的最佳班表！
 
 ---
 
